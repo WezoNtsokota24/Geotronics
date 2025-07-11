@@ -1,2 +1,2 @@
 # Geotronics
-Website for Construction companie
+Website for Construction company
